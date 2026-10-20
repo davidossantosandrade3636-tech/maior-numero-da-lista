@@ -1,1 +1,0 @@
- para finalizar=('{:=^40}'numero 2.py:1
